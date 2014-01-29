@@ -16,3 +16,10 @@
 *.exe
 *.out
 *.app
+example-sdl
+example-stm32f429-discovery
+
+# Foo
+*.lst
+*.elf
+*~
